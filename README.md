@@ -5,7 +5,7 @@ Epkisan - Login:
 </p>
 Epkisan - Main:
 <p>
-  <img width="260" height="150" src="https://raw.githubusercontent.com/jq6/epkisan/main/main-epkisan.png">
+  <img width="260" height="150" src="https://raw.githubusercontent.com/jq6/epkisan/main/main_epkisan.png">
 </p>
 
 
