@@ -1,0 +1,27 @@
+--CODED FOR EPKISAN!
+if _G.exected~=true then
+
+function wpos(x,y,z)
+EditXPos(x)
+EditYPos(y)
+EditZPos(z)
+end
+
+function rpos()
+ShowMessageBox("Here:","X: "..ReadXPos().." Y: "..ReadYPos().." Z: "..ReadZPos())
+end
+
+function size(ass)
+EditXSize(ass)
+EditYSize(ass)
+EditZSize(ass)
+end
+
+_G.executed=true
+ShowMessageBox("wht","ALL FUNCTIONS EXECUTED!")
+
+else
+
+ShowMessageBox("wht","already executed")
+end
+--COMMANDS: wpos(x,y,z), rpos(), size(number)
